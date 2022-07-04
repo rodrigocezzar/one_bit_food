@@ -2,7 +2,7 @@
 
 ### Objective:
 
-#### Create an APP inspired by Ifood using Ruby On Rails as API and Next.js as web client
+### Create an APP inspired by Ifood using Ruby On Rails as API and Next.js as web client
 
 Things you may want to cover:
 
