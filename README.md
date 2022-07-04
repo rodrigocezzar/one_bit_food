@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Objective:
+
+#### Create an APP inspired by Ifood using Ruby On Rails as API and Next.js as web client
 
 Things you may want to cover:
 
